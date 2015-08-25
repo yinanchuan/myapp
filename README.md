@@ -1,2 +1,2 @@
 # myapp
-微信小项目
+wechat javascript app
